@@ -4,10 +4,10 @@ import pandas as pd
 
 inicio = time.time()
 
-consumer_key = "adUnXXizBZZdgAUfthi5F7mUB"
-consumer_secret = "zH1YtSAHpBm8XYxRUdjnXQG4rWyXsqK2uBxxhlObatKBUsdLkC"
-token_key = "1949124626-PtOVoRSjblL0etYtSE2vVOhHXmnyH0qMC2WNXXL"
-token_secret = "0tggTvi9hiMEUbFBCT6JeSHqEVJgENLpS1tB5DZwDZNmm"
+consumer_key = ""
+consumer_secret = ""
+token_key = ""
+token_secret = ""
 
 raw_data_pos = {'text':[], 'sentiment':[]}
 raw_data_neg = {'text':[], 'sentiment':[]}
