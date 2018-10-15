@@ -7,10 +7,10 @@ import pandas as pd
 
 inicio = time.time()
 
-access_token = "1949124626-PtOVoRSjblL0etYtSE2vVOhHXmnyH0qMC2WNXXL"
-access_token_secret = "0tggTvi9hiMEUbFBCT6JeSHqEVJgENLpS1tB5DZwDZNmm"
-consumer_key = "adUnXXizBZZdgAUfthi5F7mUB"
-consumer_secret = "zH1YtSAHpBm8XYxRUdjnXQG4rWyXsqK2uBxxhlObatKBUsdLkC"
+access_token = ""
+access_token_secret = ""
+consumer_key = ""
+consumer_secret = ""
 
 candidato = "Boulos"
 
